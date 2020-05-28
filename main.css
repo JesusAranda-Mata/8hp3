@@ -1,0 +1,27 @@
+
+.container-2 {
+    border: 1px solid #000;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn {
+    background: #13bc13;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.flex-box-container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid blue;
+}
+
+.flex-box-container-2 img {
+    border: 1px solid green;
+    padding: 10px;
+}
